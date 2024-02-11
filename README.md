@@ -1,3 +1,19 @@
+# HEMANTH KUMAR PORTFOLIO
+
+I am thrilled to introduce you to my portfolio as a full stack web developer. Throughout my journey, I have had the pleasure of working on numerous web projects that have helped shape my skills and expertise in the field.
+
+My portfolio showcases a diverse range of projects, each with its unique challenges and accomplishments. It includes various other web applications, demonstrating my proficiency in technologies such as HTML, CSS, JavaScript, and popular frameworks like React and Express. I strive to create responsive, user-friendly interfaces that prioritize functionality without compromising on aesthetics.
+
+I invite you to explore my portfolio and witness firsthand the projects that have shaped my journey as a full stack web developer. I am always eager to take on new challenges and collaborate on exciting projects. Feel free to reach out to me if you would like to discuss any opportunities or have any questions.
+
+<img align="center" alt="" src="./Img/portfolio1.png">
+<img align="center" alt="" src="./Img/portfolio2.png">
+<img align="center" alt="" src="./Img/portfolio3.png">
+<img align="center" alt="" src="./Img/portfolio4.png">
+<img align="center" alt="" src="./Img/portfolio5.png">
+<img align="center" alt="" src="./Img/portfolio6.png">
+<img align="center" alt="" src="./Img/portfolio7.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
