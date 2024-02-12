@@ -141,7 +141,7 @@ const About = () => {
                             </Contact>
                         </a>
                     </Contacts>
-                    <Link to="https://drive.google.com/file/d/1tTspa7NBIw76jkVNbP18gZMMjLPzwDvt/view?usp=drive_link" style={{textDecoration: "none"}}><Resume>Link to Resume</Resume></Link>
+                    <Link to="https://drive.google.com/file/d/13JS5rSqipZyR2QeiTdv_YHEF-IN0zvsn/view?usp=drive_link" style={{textDecoration: "none"}}><Resume>Link to Resume</Resume></Link>
                 </WrittenInfo>
             </MainInfo>
         </AboutContainer>
